@@ -1,4 +1,4 @@
-package GitTest.Webskey;
+package org.webskey.gittest;
 /**
  * <h1>Test JavaDoc</h1>
  * This is the first javaDoc I have ever made.
