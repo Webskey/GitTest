@@ -1,4 +1,4 @@
-package GitTest.Webskey;
+package org.webskey.gittest;
 
 public class Rndm {
 	public static void main(String args[]) {
