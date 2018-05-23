@@ -1,0 +1,7 @@
+Log4jTest 2018-05-23 15:01:55,949 FATAL Domyœlny poziom logowania: DEBUG
+Log4jTest 2018-05-23 15:01:55,954 DEBUG Wpis #1
+Log4jTest 2018-05-23 15:01:55,954 ERROR error
+Log4jTest 2018-05-23 15:01:55,954 FATAL error
+Log4jTest 2018-05-23 15:01:55,954 WARN  error
+Log4jTest 2018-05-23 15:01:55,954 INFO  Wpis #2
+Log4jTest 2018-05-23 15:01:55,954 INFO  Wpis #4
